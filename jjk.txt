@@ -1,3 +1,6 @@
 cambio cualquiera
 
 Good 
+fine
+git bash
+string
